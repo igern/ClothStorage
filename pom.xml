@@ -58,6 +58,8 @@
     <modules>
         <module>branding</module>
         <module>application</module>
+        <module>API-Data</module>
+        <module>Database</module>
     </modules>
 
     <properties>

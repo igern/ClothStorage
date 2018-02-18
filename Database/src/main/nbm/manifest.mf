@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+OpenIDE-Module-Install: task/database/Installer.class
+OpenIDE-Module-Localizing-Bundle: task/database/Bundle.properties
+
